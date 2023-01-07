@@ -169,8 +169,6 @@ class PROGRAM():
         Label(newroot, text = "of the events, you can go to the schedule, click the events you want to delete").grid()
         Label(newroot, text = "and press the 'Remove selected events' button. Your schedule will be").grid()
         Label(newroot, text = "automatically saved so you don't have to worry about losing anything.").grid()
-
-        
         newroot.mainloop()
         return None
 
