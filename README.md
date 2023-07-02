@@ -1,5 +1,3 @@
 # Schedule-maker
-# You can make your own schedules by using this program. It was designed in a way users could quickly learn how to use it.
-# In order to add an event to the schedule, the user has to type in the event's name and the time it takes place and press the button 'Add to schedule'.
-# The program saves all events, thus a loss of progress is something not to be concerned about.
-# Should the program prove difficult to use, it contains instructions that go in detail of how the program works.
+One of my first Python projects. It was a great project for me to learn how to use the TKinter module, despite the fact that it does not represent the amount of programming skills I currently have. In the future, I might come back and improve on this project to make it a lot more useful and appealing to a normal user.
+In terms of using the program, the user can just type in the event name and the time it shall be done. Events can be deleted individually and are saved in a .txt file, thus the program can automatically reload them when rebooted. Should the user face any challenges, the program has its own set of instructions as well.
